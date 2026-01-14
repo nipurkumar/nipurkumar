@@ -45,7 +45,7 @@
 ## 📫 Connect with Me
 
 - 💼 LinkedIn: https://linkedin.com/in/nipur-kumar-44621825a  
-- 🐦 Twitter: https://twitter.com/yourhandle  
+- 🐦 Twitter: https://twitter.com/nipurkumar84
 - 🌐 Portfolio: https://nipur-portfolio.vercel.app  
 
 ---
